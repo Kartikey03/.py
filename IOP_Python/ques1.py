@@ -12,3 +12,4 @@ def merge(arr1, arr2):
 arr1 = [2,4,7,10]
 arr2 = [2,3]
 merge(arr1, arr2)
+
